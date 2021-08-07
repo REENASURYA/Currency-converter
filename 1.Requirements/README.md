@@ -32,11 +32,12 @@ The various features/options for interconversion of the system are:
 1. Yen
 1. Ringgit
 ##
+##
 ## **Defining the System:**
 ![Defining the system](https://github.com/REENASURYA/Currency-converter/blob/b840b4623a15341c09dc9d74ebd51cdc14fe1c8c/1.Requirements/system%20diagram.jpeg)
-
-**SWOT ANALYSIS:**
-![SWOT](https://github.com/REENASURYA/Currency-converter/blob/fb04bf2cbe2385ea48b111b330e5fff0ec22f9c7/1.Requirements/SWOT.png)
+##
+## **SWOT ANALYSIS:**
+![SWOT ANALYSIS](https://github.com/REENASURYA/Currency-converter/blob/fb04bf2cbe2385ea48b111b330e5fff0ec22f9c7/1.Requirements/SWOT.png)
 # **4 W's and 1'H**
 ## **Who:**
 The tool is a helping hand for People who deal in market shares and who like to shop on foreign online shops. Especially to people who aren’t so smart in calculations. 
