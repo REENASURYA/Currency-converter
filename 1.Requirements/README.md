@@ -51,7 +51,6 @@ The system opens up to the standard list of currency conversions that are availa
 # Detail requirements
 ## High Level Requirements
 
-
 |**ID**|**Description**|**Status**|
 | :-: | :-: | :-: |
 |HL-01|View currency list|Implemented|
@@ -61,8 +60,7 @@ The system opens up to the standard list of currency conversions that are availa
 
 ## Low Level Requirements
 
-
-|**LL-ID**|**Description**|`        `**HL-ID**|**Status**|
+|**LL-ID**|**Description**|**HL-ID**|**Status**|
 | :-: | :-: | :- | :-: |
 |LL-01|`                `Rupee|HL-01|Implemented|
 |LL-02|`                `Dollar|HL-01|Implemented|
@@ -72,4 +70,3 @@ The system opens up to the standard list of currency conversions that are availa
 |LL-06|`                `Ringgit|HL-01|Implemented|
 |LL-07|`         `Exchange Rate|HL-04|Future|
 |LL-08|`      `Updated currency value|HL-04|Future|
-
