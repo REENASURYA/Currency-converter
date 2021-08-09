@@ -1,3 +1,4 @@
+![Codeinspector](https://www.code-inspector.com/project/26223/score/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/31ab1e762fa24627867283e62bd6796d)](https://www.codacy.com/gh/REENASURYA/Currency-converter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=REENASURYA/Currency-converter&amp;utm_campaign=Badge_Grade)
 # Requirements
 ## Introduction
