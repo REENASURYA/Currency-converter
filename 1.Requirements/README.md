@@ -1,21 +1,21 @@
 ﻿# **Requirements**
 ## **Introduction**
-- There are around 200+ different currencies used in different countries around the world. Conversion from one currency to another is a very important endeavor especially when it comes to marketing and travel
-- ` `Knowing the other currency values corresponds with the currency you give so much more information than knowing other currency values.
-- Currency conversion is a process that involves multiplication or division by a numerical factor.
-- ` `With the global flow of Money that occurs these days, it is very important for everyone to learn these different currency values.
-- ` `Humans need to recognize the amount of the currency and to convert it manually. This is stressful especially to people who aren’t so smart in calculations.
-- A currency conversion calculator is a tool that renders a helping hand by doing currency conversions in a few seconds.
+-   There are around 200+ different currencies used in different countries around the world. Conversion from one currency to another is a very important endeavor especially when it comes to marketing and travel
+-   Knowing the other currency values corresponds with the currency you give so much more information than knowing other currency values.
+-   Currency conversion is a process that involves multiplication or division by a numerical factor.
+-   With the global flow of Money that occurs these days, it is very important for everyone to learn these different currency values.
+-   Humans need to recognize the amount of the currency and to convert it manually. This is stressful especially to people who aren’t so smart in calculations.
+-   A currency conversion calculator is a tool that renders a helping hand by doing currency conversions in a few seconds.
 
 **Research**
 
-- ` `Currency as a monetary system based on the exchange of symbolic units, is about 4,000 years old, originating in Mesopotamia.
-- ` `Coins specifically were in use from about 600-700 BCE. They seem to have   started around the same time in Anatolia (modern day Turkey), India and China, and spread very rapidly throughout the intervening empires during the 6th and 5th centuries BCE.
-- ` `Later on, currency became powerful as a medium of exchange for goods.
-- ` `Every country has its own currency.
-- The demand and supply of its currency in the foreign currency markets determines the exchange rates. It changes day to day.
-- ` `Remembering such a big number of currencies and converting them into other currencies manually is a tedious task
-- ` `Hence a project that makes all these conversions immediately available will be a welcoming choice.
+-   Currency as a monetary system based on the exchange of symbolic units, is about 4,000 years old, originating in Mesopotamia.
+-   Coins specifically were in use from about 600-700 BCE. They seem to have   started around the same time in Anatolia (modern day Turkey), India and China, and spread very rapidly throughout the intervening empires during the 6th and 5th centuries BCE.
+-   Later on, currency became powerful as a medium of exchange for goods.
+-   Every country has its own currency.
+-   The demand and supply of its currency in the foreign currency markets determines the exchange rates. It changes day to day.
+-   Remembering such a big number of currencies and converting them into other currencies manually is a tedious task
+-   Hence a project that makes all these conversions immediately available will be a welcoming choice.
 ##
 ## **Cost and Features**
 ### ***Cost***
@@ -26,11 +26,12 @@ Since the system uses only open source software, it is free of cost..!!
 The various features/options for interconversion of the system are:
 
 1. Rupee
-1. Dollar
-1. Pound
-1. Euro
-1. Yen
-1. Ringgit
+2. Dollar
+3. Pound
+4. Euro
+5. Yen
+6. Ringgit
+
 ##
 ##
 ## **Defining the System**
