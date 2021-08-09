@@ -1,4 +1,5 @@
-﻿# Requirements
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/31ab1e762fa24627867283e62bd6796d)](https://www.codacy.com/gh/REENASURYA/Currency-converter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=REENASURYA/Currency-converter&amp;utm_campaign=Badge_Grade)
+# Requirements
 ## Introduction
 -   There are around 200+ different currencies used in different countries around the world. Conversion from one currency to another is a very important endeavor especially when it comes to marketing and travel
 -   Knowing the other currency values corresponds with the currency you give so much more information than knowing other currency values.
