@@ -32,9 +32,9 @@ The various features/options for interconversion of the system are:
 5. Yen
 6. Ringgit
 
-##
-##
-## **Defining the System**
+
+
+## Defining the System
 ![Defining the system](https://github.com/REENASURYA/Currency-converter/blob/b840b4623a15341c09dc9d74ebd51cdc14fe1c8c/1.Requirements/system%20diagram.jpeg)
 ##
 ## **SWOT ANALYSIS**
@@ -48,10 +48,10 @@ A Currency converter converts the money from one currency to another currency co
 When people are struggling with Currency conversions or when the people who deal in markets and people who likes foregin shopping are cross verify their calculation. when people need conversion results.
 ## **Where**
 Can be put to use where simple or advanced share Market deals as well as foregin online shopping deals  requiring conversions are involved.Currency converter system is implemented to reduce human power to convert it into the other currency without human supervision.
-## **How**
+## How
 The system opens up to the standard list of currency conversions that are available. Upon selection of one the standard Currency, the list of inter-conversions i.e,The one sub-system(currency) is shown on the screen. The user can now choose one subunit that needs to be converted into more other subunits that are available on the list. The results for all these conversions are flashed in a second.
-# **Detail requirements**
-## **High Level Requirements**
+# Detail requirements
+## High Level Requirements
 
 
 |**ID**|**Description**|**Status**|
