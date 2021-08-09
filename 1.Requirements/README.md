@@ -32,8 +32,6 @@ The various features/options for interconversion of the system are:
 5. Yen
 6. Ringgit
 
-
-
 ## Defining the System
 ![Defining the system](https://github.com/REENASURYA/Currency-converter/blob/b840b4623a15341c09dc9d74ebd51cdc14fe1c8c/1.Requirements/system%20diagram.jpeg)
 ##
