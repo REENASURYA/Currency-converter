@@ -56,22 +56,22 @@ The system opens up to the standard list of currency conversions that are availa
 
 |**ID**|**Description**|**Status**|
 | :-: | :-: | :-: |
-|HL-01|**View currency list**|Implemented|
-|HL-02|**Select Currency**|Implemented|
-|HL-03|**Amount**|Implemented|
-|HL-04|**Updated with new currency exchange rate**|Future|
+|HL-01|View currency list|Implemented|
+|HL-02|Select Currency|Implemented|
+|HL-03|Amount|Implemented|
+|HL-04|Updated with new currency exchange rate|Future|
 
-## **Low Level Requirements**
+## Low Level Requirements
 
 
 |**LL-ID**|**Description**|`        `**HL-ID**|**Status**|
 | :-: | :-: | :- | :-: |
-|LL-01|`                `**Rupee**|HL-01|Implemented|
-|LL-02|`                `**Dollar**|HL-01|Implemented|
-|LL-03|`                `**Pound**|HL-01|Implemented|
-|LL-04|`                `**Euro**|HL-01|Implemented|
-|LL-05|`                `**Yen**|HL-01|Implemented|
-|LL-06|`                `**Ringgit**|HL-01|Implemented|
-|LL-07|`         `**Exchange Rate**|HL-04|Future|
-|LL-08|`      `**Updated currency value**|HL-04|Future|
+|LL-01|`                `Rupee|HL-01|Implemented|
+|LL-02|`                `Dollar|HL-01|Implemented|
+|LL-03|`                `Pound|HL-01|Implemented|
+|LL-04|`                `Euro|HL-01|Implemented|
+|LL-05|`                `Yen|HL-01|Implemented|
+|LL-06|`                `Ringgit|HL-01|Implemented|
+|LL-07|`         `Exchange Rate|HL-04|Future|
+|LL-08|`      `Updated currency value|HL-04|Future|
 
