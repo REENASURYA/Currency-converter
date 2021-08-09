@@ -33,24 +33,24 @@ The various features/options for interconversion of the system are:
 1. Ringgit
 ##
 ##
-## **Defining the System:**
+## **Defining the System**
 ![Defining the system](https://github.com/REENASURYA/Currency-converter/blob/b840b4623a15341c09dc9d74ebd51cdc14fe1c8c/1.Requirements/system%20diagram.jpeg)
 ##
-## **SWOT ANALYSIS:**
+## **SWOT ANALYSIS**
 ![SWOT ANALYSIS](https://github.com/REENASURYA/Currency-converter/blob/fb04bf2cbe2385ea48b111b330e5fff0ec22f9c7/1.Requirements/SWOT.png)
 # **4 W's and 1'H**
-## **Who:**
+## **Who**
 The tool is a helping hand for People who deal in market shares and who like to shop on foreign online shops. Especially to people who aren’t so smart in calculations. 
-## **What:**
+## **What**
 A Currency converter converts the money from one currency to another currency conversion in a few seconds.
-## **When:**
+## **When**
 When people are struggling with Currency conversions or when the people who deal in markets and people who likes foregin shopping are cross verify their calculation. when people need conversion results.
-## **Where:**
+## **Where**
 Can be put to use where simple or advanced share Market deals as well as foregin online shopping deals  requiring conversions are involved.Currency converter system is implemented to reduce human power to convert it into the other currency without human supervision.
-## **How:**
+## **How**
 The system opens up to the standard list of currency conversions that are available. Upon selection of one the standard Currency, the list of inter-conversions i.e,The one sub-system(currency) is shown on the screen. The user can now choose one subunit that needs to be converted into more other subunits that are available on the list. The results for all these conversions are flashed in a second.
 # **Detail requirements**
-## **High Level Requirements:**
+## **High Level Requirements**
 
 
 |**ID**|**Description**|**Status**|
@@ -60,7 +60,7 @@ The system opens up to the standard list of currency conversions that are availa
 |HL-03|**Amount**|Implemented|
 |HL-04|**Updated with new currency exchange rate**|Future|
 
-## **Low Level Requirements:**
+## **Low Level Requirements**
 
 
 |**LL-ID**|**Description**|`        `**HL-ID**|**Status**|
